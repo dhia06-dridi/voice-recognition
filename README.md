@@ -1,6 +1,6 @@
 # Speech Recognition with Deep Learning
 
-A robust real-time speech recognition system built with PyTorch and EfficientNet, trained on the Google Speech Commands dataset to classify 35 different spoken words and commands with live audio processing capabilities.
+A  real-time speech recognition system built with PyTorch and EfficientNet, trained on the Google Speech Commands dataset to classify 35 different spoken words and commands with live audio processing capabilities.
 
 ## Overview
 
