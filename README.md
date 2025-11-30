@@ -210,9 +210,9 @@ During development, multiple network architectures were evaluated for this speec
 ## Project Structure
 
 ```
-speech-recognition/
+voice-recognition/
 │
-├── test.ipynb                          # Training notebook (Jupyter)
+├── voice-recognition.ipynb                          # Training notebook (Jupyter)
 ├── real_time_interface.py              # Real-time detection UI (compact)
 ├── real_time_optimiset.py              # Alternative real-time interface
 ├── datasets_download.py                # Dataset download utility
