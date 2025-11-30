@@ -76,8 +76,9 @@ pyaudio==0.2.14
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/speech-recognition.git
-cd speech-recognition
+git clone https://github.com/dhia06-dridi/voice-recognition.git
+cd voice-recognition
+
 
 # Install dependencies
 pip install -r requirements.txt
