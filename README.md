@@ -142,19 +142,6 @@ python real_time_interface.py
 - Monitor detection log for detailed results
 - Automatic GPU acceleration if available
 
-### Programmatic Prediction
-
-```python
-from model import predict_audio
-
-# Load trained model
-model.load_state_dict(torch.load('best_model.pth'))
-
-# Predict single audio file
-label, confidence = predict_audio('audio.wav', model, dataset, device)
-print(f"Predicted: {label} ({confidence:.2f}%)")
-```
-
 ## Training Details
 
 ### Hyperparameters
