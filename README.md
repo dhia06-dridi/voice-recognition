@@ -1,12 +1,20 @@
 # Speech Recognition with Deep Learning
 
-A  real-time speech recognition system built with PyTorch and EfficientNet, trained on the Google Speech Commands dataset to classify 35 different spoken words and commands with live audio processing capabilities.
+A real-time speech recognition system built with PyTorch and EfficientNet, trained on the Google Speech Commands dataset to classify 35 different spoken words and commands with live audio processing capabilities.
 
 ## Overview
 
 This project implements an audio classification model using transfer learning with EfficientNet-B0 as the backbone. The system converts audio signals into mel-spectrograms and processes them through a deep neural network for speech command recognition. Includes a real-time interface with GPU acceleration for live voice detection.
 
 ![Training Results](image/visulise%20training%20and%20loss.png)
+
+## Demo Video
+
+Watch the real-time speech recognition system in action:
+
+![Real-time Demo](https://github.com/dhia06-dridi/voice-recognition/raw/main/demo_video.mp4)
+
+*Click the image above or [watch the demo video](https://github.com/dhia06-dridi/voice-recognition/raw/main/demo_video.mp4) to see the system processing voice commands in real-time.*
 
 ## Model Selection
 
@@ -352,7 +360,6 @@ For questions, feedback, or collaboration opportunities:
 - Open an issue in the GitHub repository
 - Email: dhiadridi06@gmail.com
 
-
 ## Known Issues
 
 - PyAudio installation may require additional steps on some systems
@@ -370,4 +377,12 @@ For questions, feedback, or collaboration opportunities:
 
 ---
 
-**Note:** This project is maintained for  educational purposes.
+**Note:** This project is maintained for educational purposes.
+
+---
+
+## System Demonstration
+
+For a visual demonstration of the system's real-time capabilities, refer to the demonstration video showing live speech command recognition in action. The video showcases the interface responsiveness, detection accuracy, and real-time processing capabilities of the implemented solution.
+
+*(Note: To include the actual video file in your GitHub repository, upload the MP4 file to your repository and update the link above accordingly)*
