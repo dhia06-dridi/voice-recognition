@@ -385,4 +385,4 @@ For questions, feedback, or collaboration opportunities:
 
 For a visual demonstration of the system's real-time capabilities, refer to the demonstration video showing live speech command recognition in action. The video showcases the interface responsiveness, detection accuracy, and real-time processing capabilities of the implemented solution.
 
-*(Note: To include the actual video file in your GitHub repository, upload the MP4 file to your repository and update the link above accordingly)*
+https://github.com/user-attachments/assets/91d0ea7a-cf8d-4f75-95fb-cc4586871e5f
